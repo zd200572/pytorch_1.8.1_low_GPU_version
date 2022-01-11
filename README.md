@@ -11,5 +11,12 @@ just find a pytorch-LMS can use ram for gpu，but not actively developed already
 
 see below:
 
+# sloution 1
 Maybe try to compile it someday!
 https://github.com/mtbrandy/pytorch#binaries
+# solution2
+koila https://github.com/rentruewang/koila
+# maybe solution 3
+https://github.com/facebookresearch/fairscale/
+
+It seems solution 2 is better, regardless of time using.
